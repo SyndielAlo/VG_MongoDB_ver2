@@ -1,1 +1,0 @@
-# VG_MongoDB_ver2
